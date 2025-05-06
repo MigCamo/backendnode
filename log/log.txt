@@ -1,0 +1,49 @@
+Sun May 04 2025 21:11:15 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:17:02 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:17:45 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:17:46 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:17:50 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Acceso denegado
+Sun May 04 2025 21:17:51 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Acceso denegado
+Sun May 04 2025 21:17:52 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Acceso denegado
+Sun May 04 2025 21:17:54 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Acceso denegado
+Sun May 04 2025 21:19:34 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:21:55 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:22:07 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:22:10 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:25:35 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:45:40 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt malformed
+Sun May 04 2025 21:46:14 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Sun May 04 2025 21:46:31 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Sun May 04 2025 21:48:13 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 21:48:33 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 22:41:05 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 22:41:13 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 22:41:38 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 22:43:01 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 23:43:45 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Sun May 04 2025 23:46:18 GMT-0600 (hora estándar central) - 400 - ::ffff:127.0.0.1 - Anónimo - Expected double-quoted property name in JSON at position 109 (line 5 column 1)
+Sun May 04 2025 23:46:31 GMT-0600 (hora estándar central) - 400 - ::ffff:127.0.0.1 - Anónimo - Expected double-quoted property name in JSON at position 109 (line 5 column 1)
+Sun May 04 2025 23:47:45 GMT-0600 (hora estándar central) - 400 - ::ffff:127.0.0.1 - Anónimo - Expected property name or '}' in JSON at position 7 (line 2 column 5)
+Sun May 04 2025 23:48:33 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"}]}
+Sun May 04 2025 23:52:43 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"}]}
+Sun May 04 2025 23:53:40 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"}]}
+Sun May 04 2025 23:57:16 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"}]}
+Sun May 04 2025 23:59:38 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"}]}
+Mon May 05 2025 00:02:39 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - {"errors":[{"type":"field","msg":"El campo {0} es obligatorio","path":"descripcion","location":"body"}]}
+Mon May 05 2025 00:03:22 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Mon May 05 2025 00:08:31 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Mon May 05 2025 00:24:16 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Mon May 05 2025 08:24:27 GMT-0600 (hora estándar central) - 500 - ::1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 08:26:46 GMT-0600 (hora estándar central) - 500 - ::1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:04:33 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
+Mon May 05 2025 22:20:00 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - Acceso denegado
+Mon May 05 2025 22:21:36 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:21:56 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:22:21 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:22:29 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:32:12 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:32:45 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:35:06 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:35:17 GMT-0600 (hora estándar central) - 401 - ::1 - Anónimo - Cannot read properties of undefined (reading 'startsWith')
+Mon May 05 2025 22:37:01 GMT-0600 (hora estándar central) - 500 - ::ffff:127.0.0.1 - gvera@uv.mx - No se ha podido procesar la petición. Inténtelo nuevamente más tarde.
+Mon May 05 2025 22:47:28 GMT-0600 (hora estándar central) - 401 - ::ffff:127.0.0.1 - Anónimo - jwt expired
